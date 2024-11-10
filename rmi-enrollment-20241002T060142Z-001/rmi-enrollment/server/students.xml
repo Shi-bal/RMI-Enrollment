@@ -1,6 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<students>
-    <student id="S001" name="John Doe" program="Computer Science"/>
-    <student id="S002" name="Jane Smith" program="Engineering"/>
-    <student id="S003" name="Bob Johnson" program="Mathematics"/>
-</students>

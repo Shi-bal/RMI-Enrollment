@@ -1,6 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<courses>
-    <course id="C001" name="Introduction to Programming"/>
-    <course id="C002" name="Data Structures"/>
-    <course id="C003" name="Database Management"/>
-</courses>
